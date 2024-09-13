@@ -6,7 +6,7 @@
 
   <sup>Leave a star ⭐️ if you like the project</sup>
 
-  <strong>[Buy me a coffee](buymeacoffee.com/29LK03m9CB) ☕️<br />
+  <strong>[Buy me a coffee](https://www.buymeacoffee.com/29LK03m9CB) ☕️<br />
 </div>
 
 ---
