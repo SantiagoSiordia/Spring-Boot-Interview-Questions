@@ -17,6 +17,9 @@
   - [Beginner](#beginner)
     - [What is Spring Boot?](#what-is-spring-boot)
     - [Key Features of Spring Boot](#key-features-of-spring-boot)
+    - [What is Spring Boot Actuator?](#what-is-spring-boot-actuator)
+    - [What is Spring Boot Starter?](#what-is-spring-boot-starter)
+    - [What is Spring Boot CLI?](#what-is-spring-boot-cli)
 
 ---
 
@@ -48,3 +51,48 @@ Relevant Links:
 **[⬆️ Return to index](#index)**
 
 ---
+
+#### What is Spring Boot Actuator?
+
+Spring Boot Actuator is a sub-project of Spring Boot that provides production-ready features to help you monitor and manage your application. It provides a set of built-in endpoints, such as `/health`, `/info`, and `/metrics`, that you can use to monitor your application's health, configuration, and performance.
+
+Some of the features provided by Spring Boot Actuator include:
+
+- Application health checks
+- Environment information
+- Metrics
+- Auditing
+- Logging
+
+Relevant Links:
+- [Spring Boot Documentation: Actuator](https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html)
+- [Baeldung: Spring Boot Actuator](https://www.baeldung.com/spring-boot-actuators)
+
+**[⬆️ Return to index](#index)**
+
+---
+
+#### What is Spring Boot Starter?
+
+Spring Boot Starters are a set of convenient dependency descriptors that you can include in your application's build configuration to get a set of dependencies quickly. Starters are a way to group dependencies together to provide a specific set of functionality. For example, you can use the `spring-boot-starter-web` starter to include all the dependencies you need to build a web application.
+
+Starters simplify the process of adding dependencies to your project, as you only need to include a single starter instead of adding multiple dependencies manually.
+
+Relevant Links:
+- [Spring Boot Documentation: Starters](https://docs.spring.io/spring-boot/docs/current/reference/html/using-spring-boot.html#using-boot-starter)
+- [Baeldung: Spring Boot Starters](https://www.baeldung.com/spring-boot-starters)
+
+**[⬆️ Return to index](#index)**
+
+---
+
+#### What is Spring Boot CLI?
+
+Spring Boot CLI (Command Line Interface) is a command-line tool that allows you to run Spring Boot applications directly from the command line. It provides a quick and easy way to prototype and develop Spring Boot applications without needing to set up a full project structure.
+
+With Spring Boot CLI, you can create, run, test, and debug Spring Boot applications using a simple command-line interface. It also includes features like auto-restart, which automatically restarts your application when you make changes to the code.
+
+Relevant Links:
+- [Spring Boot Documentation: CLI](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-cli.html)
+- [Baeldung: Spring Boot CLI](https://www.ba
+
