@@ -20,6 +20,7 @@
     - [What is Spring Boot Actuator?](#what-is-spring-boot-actuator)
     - [What is Spring Boot Starter?](#what-is-spring-boot-starter)
     - [What is Spring Boot CLI?](#what-is-spring-boot-cli)
+    - [What is Spring Boot Initializr?](#what-is-spring-boot-initializr)
 
 ---
 
@@ -96,3 +97,19 @@ Relevant Links:
 - [Spring Boot Documentation: CLI](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-cli.html)
 - [Baeldung: Spring Boot CLI](https://www.ba
 
+**[⬆️ Return to index](#index)**
+
+---
+
+#### What is Spring Boot Initializr?
+
+Spring Boot Initializr is a web-based tool that allows you to quickly generate a new Spring Boot project with the dependencies and settings you need. You can use Initializr to customize your project by selecting the project type, language, build tool, and dependencies you want to include.
+
+Initializr generates a project structure for you based on your selections, including the necessary configuration files, build scripts, and dependencies. You can then download the project as a ZIP file and import it into your favorite IDE to start developing your Spring Boot application.
+
+Relevant Links:
+- [Spring Initializr](https://start.spring.io/)
+
+**[⬆️ Return to index](#index)**
+
+---
