@@ -26,7 +26,7 @@
     - [What is Spring Data JPA?](#what-is-spring-data-jpa)
     - [What is Spring Cloud?](#what-is-spring-cloud)
     - [What is Spring Batch?](#what-is-spring-batch)
-    - [Why is Spring “opinionated”?](#why-is-spring-opinionated)
+    - [Why is Spring _opinionated_?](#why-is-spring-opinionated)
     - [What does @EnableAutoConfiguration do? What about @SpringBootApplication?](#what-does-enableautoconfiguration-do-what-about-springbootapplication)
 
 ---
@@ -191,7 +191,7 @@ Relevant Links:
 
 ---
 
-#### Why is Spring “opinionated”?
+#### Why is Spring _opinionated_?
 
 Spring is considered "opinionated" because it provides a set of defaults and conventions that guide developers in building applications. These opinions are based on best practices and are designed to help developers get started quickly and build applications that follow industry standards.
 
