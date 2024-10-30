@@ -27,6 +27,7 @@
     - [What is Spring Cloud?](#what-is-spring-cloud)
     - [What is Spring Batch?](#what-is-spring-batch)
     - [Why is Spring “opinionated”?](#why-is-spring-opinionated)
+    - [What does @EnableAutoConfiguration do? What about @SpringBootApplication?](#what-does-enableautoconfiguration-do-what-about-springbootapplication)
 
 ---
 
@@ -199,3 +200,19 @@ Spring Boot, in particular, is opinionated in that it provides a set of defaults
 **[⬆️ Return to index](#index)**
 
 ---
+
+#### What does @EnableAutoConfiguration do? What about @SpringBootApplication?
+
+`@EnableAutoConfiguratio` annotation on a Spring Java configuration class
+– Causes Spring Boot to automatically create beans it thinks you need
+– Usually based on classpath contents, can easily override
+
+```java
+@Configuration
+@EnableAutoConfiguration
+public class MyAppConfig {
+      public static void main(String[] args) {
+      SpringApplication.run(MyAppConfig.class, args);
+    `
+}
+```
