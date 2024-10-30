@@ -21,6 +21,12 @@
     - [What is Spring Boot Starter?](#what-is-spring-boot-starter)
     - [What is Spring Boot CLI?](#what-is-spring-boot-cli)
     - [What is Spring Boot Initializr?](#what-is-spring-boot-initializr)
+  - [Other](#other)
+    - [What is Dependency Injection?](#what-is-dependency-injection)
+    - [What is Spring Security?](#what-is-spring-security)
+    - [What is Spring Data JPA?](#what-is-spring-data-jpa)
+    - [What is Spring Cloud?](#what-is-spring-cloud)
+    - [What is Spring Batch?](#what-is-spring-batch)
 
 ---
 
@@ -113,3 +119,74 @@ Relevant Links:
 **[⬆️ Return to index](#index)**
 
 ---
+
+### Other
+
+#### What is Dependency Injection?
+
+Dependency Injection (DI) is a design pattern used to implement IoC (Inversion of Control), allowing the creation of dependent objects outside of a class and providing those objects to a class in various ways. It helps in making the code more modular, testable, and maintainable.
+
+In Spring, DI can be achieved through constructor injection, setter injection, or field injection.
+
+Relevant Links:
+- [Spring Documentation: Dependency Injection](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-dependency-injection)
+- [Baeldung: Dependency Injection](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)
+
+**[⬆️ Return to index](#index)**
+
+---
+
+#### What is Spring Security?
+
+Spring Security is a powerful and customizable authentication and access-control framework for Java applications. It provides comprehensive security services for Java EE-based enterprise software applications.
+
+Spring Security is highly configurable and can be used to secure web applications, REST APIs, and method-level security.
+
+Relevant Links:
+- [Spring Security Documentation](https://docs.spring.io/spring-security/site/docs/current/reference/html5/)
+- [Baeldung: Spring Security](https://www.baeldung.com/spring-security)
+
+**[⬆️ Return to index](#index)**
+
+---
+
+#### What is Spring Data JPA?
+
+Spring Data JPA is a part of the larger Spring Data family, which makes it easier to implement JPA-based repositories. It provides a framework that works with JPA to help you create repositories that are easy to test and maintain.
+
+Spring Data JPA reduces the boilerplate code required to implement data access layers for various persistence stores.
+
+Relevant Links:
+- [Spring Data JPA Documentation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
+- [Baeldung: Spring Data JPA](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)
+
+**[⬆️ Return to index](#index)**
+
+---
+
+#### What is Spring Cloud?
+
+Spring Cloud provides tools for developers to quickly build some of the common patterns in distributed systems (e.g., configuration management, service discovery, circuit breakers, intelligent routing, micro-proxy, control bus, one-time tokens, global locks, leadership election, distributed sessions, cluster state).
+
+Spring Cloud is designed to work well in a cloud environment and provides a set of tools to manage the complexity associated with distributed systems.
+
+Relevant Links:
+- [Spring Cloud Documentation](https://spring.io/projects/spring-cloud)
+- [Baeldung: Spring Cloud](https://www.baeldung.com/spring-cloud)
+
+**[⬆️ Return to index](#index)**
+
+---
+
+#### What is Spring Batch?
+
+Spring Batch is a lightweight, comprehensive batch framework designed to enable the development of robust batch applications vital for the daily operations of enterprise systems. It provides reusable functions that are essential in processing large volumes of records, including logging/tracing, transaction management, job processing statistics, job restart, skip, and resource management.
+
+Spring Batch is designed for processing large volumes of data in a consistent and reliable manner.
+
+Relevant Links:
+- [Spring Batch Documentation](https://docs.spring.io/spring-batch/docs/current/reference/html/)
+- [Baeldung: Spring Batch](https://www.baeldung.com/spring-batch)
+
+**[⬆️ Return to index](#index)**
+
