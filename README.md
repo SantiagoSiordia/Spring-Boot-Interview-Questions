@@ -26,6 +26,7 @@
     - [What is Spring Data JPA?](#what-is-spring-data-jpa)
     - [What is Spring Cloud?](#what-is-spring-cloud)
     - [What is Spring Batch?](#what-is-spring-batch)
+    - [Why is Spring “opinionated”?](#why-is-spring-opinionated)
 
 ---
 
@@ -187,3 +188,14 @@ Relevant Links:
 
 **[⬆️ Return to index](#index)**
 
+---
+
+#### Why is Spring “opinionated”?
+
+Spring is considered "opinionated" because it provides a set of defaults and conventions that guide developers in building applications. These opinions are based on best practices and are designed to help developers get started quickly and build applications that follow industry standards.
+
+Spring Boot, in particular, is opinionated in that it provides a set of defaults and auto-configurations that help developers build production-ready applications with minimal configuration. While Spring Boot is opinionated, it also allows developers to override these opinions and customize their applications as needed.
+
+**[⬆️ Return to index](#index)**
+
+---
