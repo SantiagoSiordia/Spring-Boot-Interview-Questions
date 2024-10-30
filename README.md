@@ -95,7 +95,7 @@ With Spring Boot CLI, you can create, run, test, and debug Spring Boot applicati
 
 Relevant Links:
 - [Spring Boot Documentation: CLI](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-cli.html)
-- [Baeldung: Spring Boot CLI](https://www.ba
+- [Baeldung: Spring Boot CLI](https://www.baeldung.com/spring-boot-cli)
 
 **[⬆️ Return to index](#index)**
 
