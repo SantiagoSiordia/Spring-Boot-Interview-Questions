@@ -21,7 +21,6 @@
     - [What is Spring Boot Starter?](#what-is-spring-boot-starter)
     - [What is Spring Boot CLI?](#what-is-spring-boot-cli)
     - [What is Spring Boot Initializr?](#what-is-spring-boot-initializr)
-  - [Other](#other)
     - [What is Dependency Injection?](#what-is-dependency-injection)
     - [What is Spring Security?](#what-is-spring-security)
     - [What is Spring Data JPA?](#what-is-spring-data-jpa)
@@ -119,8 +118,6 @@ Relevant Links:
 **[⬆️ Return to index](#index)**
 
 ---
-
-### Other
 
 #### What is Dependency Injection?
 
