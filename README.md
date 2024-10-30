@@ -211,8 +211,7 @@ Spring Boot, in particular, is opinionated in that it provides a set of defaults
 @Configuration
 @EnableAutoConfiguration
 public class MyAppConfig {
-      public static void main(String[] args) {
-      SpringApplication.run(MyAppConfig.class, args);
-    `
+  public static void main(String[] args) {
+  SpringApplication.run(MyAppConfig.class, args);
 }
 ```
